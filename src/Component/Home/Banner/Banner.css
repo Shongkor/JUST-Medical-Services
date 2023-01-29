@@ -1,0 +1,32 @@
+.bannerIMG{
+    padding: 60px 5px;
+    width: 100%;
+}
+.bannerFont{
+    padding: 60px 40px 60px 60px;
+}
+.info section{
+    width: 400px;
+    height: 200px;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 0px 20px;
+    border-radius: 10px;
+}
+.info section div{
+    padding: 40px;
+}
+.info section i{
+    color: white;
+    font-size: 60px;
+    font-weight: 900;
+}
+.info1 {
+background-color: aqua;
+}
+.info2 {
+background-color: rgb(90, 85, 85);
+}
+.info3 {
+background-color: rgb(99, 59, 7);
+}
