@@ -1,0 +1,14 @@
+
+.ServiceContainer{
+margin-top: 100px;
+}
+.serviceDiv{
+    margin: 0px 5px;
+}
+.serviceDiv div{
+    padding: 20px;
+    box-shadow: 2px -1px 2px 2px #dee2e6;
+    margin: 5px;
+    border-radius: 10px;
+    text-align: center;
+}

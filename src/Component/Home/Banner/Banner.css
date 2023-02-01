@@ -12,17 +12,17 @@
     justify-content: space-evenly;
     padding: 0px 20px;
     border-radius: 10px;
+    color: #FFFFFF;
 }
 .info section div{
     padding: 40px;
 }
 .info section i{
-    color: white;
     font-size: 60px;
     font-weight: 900;
 }
 .info1 {
-background-color: aqua;
+background-color: rgb(31, 201, 201);
 }
 .info2 {
 background-color: rgb(90, 85, 85);

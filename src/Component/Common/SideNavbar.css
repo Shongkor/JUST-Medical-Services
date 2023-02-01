@@ -5,13 +5,13 @@ body{
   }
   
   .sidebar{
-    flex-shrink: 0;
     background-color:#feffff;
     height: 98%;
     overflow: scroll;
     text-align: left;
     position: fixed;
     box-shadow: #2C3E50;
+    margin-top: 88px;
   }
   
   
