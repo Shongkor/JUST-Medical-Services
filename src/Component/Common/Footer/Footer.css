@@ -1,0 +1,10 @@
+.footer a{
+    display: block;
+    text-decoration: none;
+    padding: 5px;
+}
+.footer a:hover{
+    background-color: rgb(13, 253, 253);
+    color: black;
+    border-radius: 5px;
+}

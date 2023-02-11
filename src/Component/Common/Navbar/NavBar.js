@@ -1,5 +1,5 @@
 import React from 'react';
-import items from "../../FakeData/navBar.json"
+import items from "../../../FakeData/navBar.json"
 import SideBarMain from './SideBarMain';
 
 export default function Navbar(){
